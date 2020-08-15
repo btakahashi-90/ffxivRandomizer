@@ -1,0 +1,10 @@
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\bin\Debug\ffxivRando.exe.config
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\bin\Debug\ffxivRando.exe
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\bin\Debug\ffxivRando.pdb
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\obj\Debug\ffxivRando.csprojResolveAssemblyReference.cache
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\obj\Debug\ffxivRando.Form1.resources
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\obj\Debug\ffxivRando.Properties.Resources.resources
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\obj\Debug\ffxivRando.csproj.GenerateResource.Cache
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\obj\Debug\ffxivRando.csproj.CoreCompileInputs.cache
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\obj\Debug\ffxivRando.exe
+D:\projects\ffxivRandomizer\ffxivRando\ffxivRando\obj\Debug\ffxivRando.pdb
